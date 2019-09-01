@@ -1,0 +1,54 @@
+body
+{
+	background-image:url(../images/admit.jpg);
+	height: 100vh;
+	background-size:cover;
+	background-position:center;
+}
+.log_in
+{
+	 width:300px;
+	 padding: 7% 0 0;
+	 margin: auto;
+	 margin-left:1000px;
+	 
+}
+.form
+{
+	position:relative;
+	z-index:1;
+	background:transparent;
+	max-width:360px;
+	padding:45px;
+	text-align:center;
+	margin:0 auto 100px;
+	
+}
+.form1
+{
+   font-family:"roboto",sans-serif;
+outline:1;
+background:  #ffc4c4;
+width:100%;
+border: 0;
+margin:0 0 15px;
+padding :15px;
+box-sizing:border-box;
+font-size:14px;
+}
+
+.submit
+{
+	font-family:"roboto",sans-serif;
+	text-transform:uppercase;
+	outline:0;
+	background:#3c3796;
+	width:60%;
+	border:0;
+	padding:15px;
+	color:#ffffff;
+	font-size:14px;
+	cursor:pointer;
+	border-radius:5px;
+	margin-left:40px;
+}
